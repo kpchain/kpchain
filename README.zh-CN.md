@@ -1,6 +1,6 @@
-# kpchain
+# KPChain
 
-KPChain is an flexible, efficient, safe and decentralized application platform.
+快拍链(KPChain)是去中心化人工智能数据网络。
 
 ## 快速入门
 

@@ -1,6 +1,6 @@
-# kpchain
+# KPChain
 
-KPChain is an flexible, efficient, safe and decentralized application platform.
+KPChain is a decentralized AI Data Network.
 
 ## QuickStart
 
