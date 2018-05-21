@@ -1,6 +1,6 @@
 'use strict';
 
-const VERSION = 'v3';
+const VERSION = 'v1';
 
 /**
  * @param {Egg.Application} app - egg application
@@ -14,4 +14,7 @@ module.exports = app => {
   router.get('/peer/version', controller.peer.version);
   router.get('/peer/get', controller.peer.getPeer);
 
-};
+  // account
+  router.get('/account/new', controller.account.newAccount);
+
+}

@@ -4,8 +4,12 @@
   "description": "KPChain is an flexible, efficient, safe and decentralized application platform.",
   "private": true,
   "dependencies": {
+    "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
+    "bitcore-mnemonic": "^1.5.0",
+    "crypto": "^1.0.1",
     "egg": "^2.2.1",
-    "egg-scripts": "^2.5.0"
+    "egg-scripts": "^2.5.0",
+    "sodium": "^2.0.3"
   },
   "devDependencies": {
     "autod": "^3.0.1",
@@ -15,6 +19,8 @@
     "egg-mock": "^3.14.0",
     "eslint": "^4.11.0",
     "eslint-config-egg": "^6.0.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-standard": "^3.1.0",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
